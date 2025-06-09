@@ -1,21 +1,19 @@
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=4F8CC9&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Dhruv+%F0%9F%91%8B;Full+Stack+Developer;ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Dhruv+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhruv124&label=Profile+Views&color=4F8CC9&style=flat" alt="Profile Views" /> 
-  <a href="https://github.com/Dhruv124?tab=followers">
-    <img src="https://img.shields.io/github/followers/Dhruv124?label=Followers&style=social" alt="GitHub Followers">
-  </a>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%234F8CC9.svg?&style=for-the-badge" alt="Full Stack Developer">
+  <img src="https://img.shields.io/badge/Python%20%26%20Django-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python & Django">
+  <img src="https://img.shields.io/badge/ML%20Explorer-%23FF6F00.svg?&style=for-the-badge" alt="ML Explorer">
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="400" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJtY3FqY2Z6b2J0Z3V5Y2VlZ2V6Z2M1eHZ6dGJtY2ZqZ2Z6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="Transformation GIF">
 </div>
 
 ---
-
 ## 🧑‍💻 About Me
 
 ```python
