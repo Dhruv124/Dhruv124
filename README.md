@@ -105,11 +105,8 @@ me = FullStackDeveloper()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv124&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv124&layout=compact&theme=radical&hide_border=true&langs_count=6" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Dhruv124&theme=radical&hide_border=true" />
+</br>
 </div>
 
 ---
@@ -128,14 +125,6 @@ me = FullStackDeveloper()
 <tr>
   <td>🏅 State-Level Athlete</td>
   <td>Track & Field (100m: 13s | Long Jump: 4.41m)</td>
-</tr>
-<tr>
-  <td>📜 Google Cloud Certified</td>
-  <td>Associate Cloud Engineer</td>
-</tr>
-<tr>
-  <td>🏆 Hackathon Winner</td>
-  <td>Smart India Hackathon 2023</td>
 </tr>
 </table>
 
