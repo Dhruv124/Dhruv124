@@ -60,16 +60,6 @@ ML model predicting insurance premiums using Scikit-learn with 89% accuracy.
 [![View Project](https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge)](https://github.com/Dhruv124/CostingWebApp)  
 Real-time cost calculation tool built with PHP, JavaScript, and MySQL.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhruv124&show_icons=true&theme=radical&count_private=true" alt="Dhruv's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv124&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
 
 ## 🏆 Achievements
 
